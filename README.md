@@ -7,7 +7,7 @@
 - 👀 I’m interested in web development, coding, and building full-stack applications.
 - 🌱 Currently learning: **Python**, **Laravel**, **Native PHP**, **React.js**, and **Next.js**.
 - 💞️ I’m exploring open-source and collaboration opportunities.
-- 📫 How to reach me: **varunshergill0@gmail.com** | [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/varun-mehta-077a092a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+- 📫 How to reach me: **varunshergill0@gmail.com** | LinkedIn:(https://www.linkedin.com/in/varun-mehta-077a092a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ## 😄 Pronouns
 **He/Him** — Or just call me *"The Fixer"* 🔧
